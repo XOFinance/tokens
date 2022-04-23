@@ -1,0 +1,11 @@
+{
+ "name": "OX Finance",
+ "website": "https://oxfi.app",
+ "description": "The world's first finance protocol to achieve continuous token price increases through "vault" smart contracts.",
+ "explorer": "https://bscscan.com/token/0x93C169b9A0Bf3478c9912d45228093EA339c00a3",
+ "type": "BEP20",
+ "symbol": "OXFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x93C169b9A0Bf3478c9912d45228093EA339c00a3"
+}
